@@ -2,7 +2,7 @@
 layout: post
 title:  "IoC 컨테이너 1부 : 스프링 IoC 컨테이너와 빈"
 date:   2020-01-13
-excerpt: "IoC 컨테이너 1부 : 스프링 IoC 컨테이너와 빈"
+excerpt: ""
 tag:
 - Spring
 - 백기선 강의

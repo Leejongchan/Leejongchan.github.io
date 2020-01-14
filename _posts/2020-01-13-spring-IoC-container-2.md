@@ -2,7 +2,7 @@
 layout: post
 title:  "IoC 컨테이너 2부 : ApplicationContext와 다양한 빈 설정 방법"
 date:   2020-01-13
-excerpt: "IoC 컨테이너 2부 : ApplicationContext와 다양한 빈 설정 방법"
+excerpt: ""
 tag:
 - Spring
 - 백기선 강의

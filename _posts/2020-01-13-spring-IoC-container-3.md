@@ -2,7 +2,7 @@
 layout: post
 title:  "IoC 컨테이너 3부: @Autowire"
 date:   2020-01-13
-excerpt: "IoC 컨테이너 3부: @Autowire"
+excerpt: ""
 tag:
 - Spring
 - 백기선 강의
