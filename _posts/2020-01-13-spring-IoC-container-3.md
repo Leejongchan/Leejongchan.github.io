@@ -75,7 +75,7 @@ comments: true
     }
     ```
 
-## 여러 Class가 implements한 Interface를 의존성 주입할 경우
+# 여러 Class가 implements한 Interface를 의존성 주입할 경우
 - @Primary를 이용하여 어떠한 Class가 의존성 주입될지 결정한다.
     ```java
     public interface BookRepository {
@@ -112,7 +112,7 @@ comments: true
     }
     ```
 
-## 동작 원리
+# 동작 원리
 - BeanPostProcessor라는 라이프사이클 인터페이스의 구현체에 의해 동작한다.
 - [BeanPostProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/config/BeanPostProcessor.html)
   - Bean initialize(Bean의 Instance를 생성) 라이프사이클 이전, 이후에 부가적인 작업을 할 수 있는 라이프사이클 콜백
