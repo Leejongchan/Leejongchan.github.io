@@ -3,10 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="4fa5ec80-3e81-431f-8674-6e9f649cc851" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
       <change beforePath="$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-6-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-6-1.md" afterDir="false" />
 >>>>>>> Stashed changes
+=======
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +39,15 @@
           <entry key="iml" value="7" />
           <entry key="jpg" value="2" />
           <entry key="lock" value="1" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
           <entry key="md" value="30" />
 =======
           <entry key="md" value="45" />
 >>>>>>> Stashed changes
+=======
+          <entry key="md" value="30" />
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
           <entry key="png" value="1" />
           <entry key="yml" value="4" />
         </counts>
@@ -50,11 +57,15 @@
           <entry key="HTML" value="1" />
           <entry key="IDEA_MODULE" value="7" />
           <entry key="Image" value="3" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
           <entry key="Markdown" value="30" />
 =======
           <entry key="Markdown" value="45" />
 >>>>>>> Stashed changes
+=======
+          <entry key="Markdown" value="30" />
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="YAML" value="4" />
         </counts>
@@ -63,21 +74,29 @@
         <counts>
           <entry key="Gemfile" value="4" />
           <entry key="gitignore" value="147" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
           <entry key="md" value="112" />
 =======
           <entry key="md" value="149" />
 >>>>>>> Stashed changes
+=======
+          <entry key="md" value="112" />
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
           <entry key="yml" value="95" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
           <entry key="Markdown" value="112" />
 =======
           <entry key="Markdown" value="149" />
 >>>>>>> Stashed changes
+=======
+          <entry key="Markdown" value="112" />
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
           <entry key="PLAIN_TEXT" value="151" />
           <entry key="YAML" value="95" />
         </counts>
@@ -87,7 +106,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
         <entry file="file://$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-6.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -96,6 +118,7 @@
                 <folding>
                   <element signature="e#220#221#0" expanded="true" />
                   <element signature="e#261#262#0" expanded="true" />
+<<<<<<< HEAD
 =======
         <entry file="file://$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-9.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -128,6 +151,8 @@
                   <element signature="e#119#120#0" expanded="true" />
                   <element signature="e#187#188#0" expanded="true" />
 >>>>>>> Stashed changes
+=======
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
                 </folding>
               </first_editor>
               <second_editor />
@@ -160,6 +185,7 @@
         <option value="$PROJECT_DIR$/about/index.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-6.md" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
         <option value="$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-7.md" />
@@ -168,6 +194,8 @@
         <option value="$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-8.md" />
         <option value="$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-9.md" />
 >>>>>>> Stashed changes
+=======
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
       </list>
     </option>
   </component>
@@ -184,6 +212,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <option name="y" value="23" />
     <option name="width" value="1327" />
@@ -192,6 +221,10 @@
     <option name="y" value="23" />
     <option name="width" value="1337" />
 >>>>>>> Stashed changes
+=======
+    <option name="y" value="23" />
+    <option name="width" value="1327" />
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -250,11 +283,15 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jongchanlee/dev/leejongchan.github.io/.gitignore" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579323857558" />
 =======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579332799870" />
 >>>>>>> Stashed changes
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579323857558" />
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
@@ -293,16 +330,23 @@
       <workItem from="1579005792739" duration="3497000" />
       <workItem from="1579010138847" duration="2495000" />
       <workItem from="1579185163458" duration="1525000" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <workItem from="1579323503973" duration="375000" />
 =======
       <workItem from="1579323503973" duration="4268000" />
 >>>>>>> Stashed changes
+=======
+      <workItem from="1579323503973" duration="375000" />
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
     <option name="totallyTimeSpent" value="7892000" />
   </component>
   <component name="ToolWindowManager">
@@ -310,6 +354,7 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.214786" />
+<<<<<<< HEAD
 =======
     <option name="totallyTimeSpent" value="11785000" />
   </component>
@@ -319,6 +364,8 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18395463" />
 >>>>>>> Stashed changes
+=======
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -396,6 +443,7 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="135">
             <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+<<<<<<< HEAD
           </first_editor>
           <second_editor />
 <<<<<<< Updated upstream
@@ -473,11 +521,14 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="120">
             <caret line="8" selection-start-line="8" selection-end-line="8" />
+=======
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -535,6 +586,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-7.md">
+=======
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-20-markdown-syntax.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-05-22-sample-post-images.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2013-06-25-video-post.md" />
+    <entry file="file://$PROJECT_DIR$/leejongchan.github.io.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-05-23-readability-feature-post.md" />
+    <entry file="file://$PROJECT_DIR$/posts/index.md">
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="150">
@@ -544,6 +607,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-6-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -596,10 +660,76 @@
             <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
           </first_editor>
           <second_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/_posts/2015-08-10-mathjax-example.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/post_template.md" />
+    <entry file="file://$USER_HOME$/work/leejongchan.github.io/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-21-moon-theme.md" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
         </state>
       </provider>
     </entry>
 <<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-01-18-test.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/_posts/2020-01-14-spring-IoC-container-5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/about/index_template.md" />
+    <entry file="file://$PROJECT_DIR$/assets/img/placeholder-torontoisland.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="293">
+            <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+            <folding>
+              <element signature="e#220#221#0" expanded="true" />
+              <element signature="e#261#262#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+=======
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -635,8 +765,7 @@
         </state>
       </provider>
     </entry>
-=======
->>>>>>> Stashed changes
+>>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
   </component>
   <component name="masterDetails">
     <states>
