@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "IoC 컨테이너 6부: Environment 1부"
+title: "IoC 컨테이너 6부: Environment 1부. 프로파"
 date: 2020-01-18
 excerpt: ""
 tags: 
 - Spring
 - 백기선 강의
-- 스프링 프레임워크 핵심 기술
+- 스프링 프레임워크 핵심 기술일
 comments: true
 ---
 
