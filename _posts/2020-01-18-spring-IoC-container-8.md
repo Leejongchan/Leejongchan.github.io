@@ -10,8 +10,10 @@ tags:
 comments: true
 ---
 
-이벤트 프로그래밍에 필요한 인터페이스를 제공하며 옵저버 패턴의 구현체이다.
+[ApplicationEventPublisher](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationEventPublisher.html)는 이벤트 프로그래밍에 필요한 인터페이스를 제공하며 옵저버 패턴의 구현체이다. ApplicationContext는 ApplicationEventPublisher를 상속한다.
 
+
+# Event 만들기
 
 ```java
 // Spring 4.2이전에는 항상 ApplicationEvent Class를 상속받아야 한다.
@@ -35,6 +37,12 @@ public class MyEvent extends ApplicationEvent {
 }
 ```
 
+
+
+# Event 발생 시키는 방법
+
+ApplicationEventPublisher.publishEvent() Method를 이용한다.
+
 ```java
 @Component
 public class AppRunner implements ApplicationRuneer {
@@ -48,6 +56,14 @@ public class AppRunner implements ApplicationRuneer {
   }
 }
 ```
+
+
+
+# Event 처리하는 방법
+
+ApplicationListener<이벤트>를 구현한 클래스를 만들어 빈으로 등록한다. 
+
+Spring 4.2 부터는 @EventListener를 사용하여 빈의 메소드에서 사용할 수 있다.
 
 ```java
 // Event Handler는 Bean으로 등록되야 한다.
@@ -213,8 +229,6 @@ public class AnotherHandler {
    * ApplicationContext를 close()하여 싱글톤 빈 소멸되는 시점에 발생
 5. RequestHandledEvent
    * HTTP 요청을 처리했을 때 발생
-     
-     
 
 ```java
 @Component
