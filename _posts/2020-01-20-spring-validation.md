@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "Validation 추상"
+title: "Validation 추상화"
 date: 2020-01-20
 excerpt: ""
 tags: 

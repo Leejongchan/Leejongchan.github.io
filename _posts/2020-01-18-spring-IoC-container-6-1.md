@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IoC 컨테이너 6부: Environment 1부. 프로파"
+title: "IoC 컨테이너 6부: Environment 1부. 프로파일"
 date: 2020-01-18
 excerpt: ""
 tags: 
