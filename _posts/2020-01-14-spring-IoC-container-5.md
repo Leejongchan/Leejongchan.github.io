@@ -10,6 +10,10 @@ tag:
 comments: true
 ---
 
+>백기선님의 스프링 프레임워크 핵심 기술 강의 내용을 정리한 내용입니다.
+---
+
+
 # Bean의 Scope
 - Singleton
 

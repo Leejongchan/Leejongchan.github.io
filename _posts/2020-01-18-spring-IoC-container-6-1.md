@@ -10,6 +10,10 @@ tags:
 comments: true
 ---
 
+>백기선님의 스프링 프레임워크 핵심 기술 강의 내용을 정리한 내용입니다.
+---
+
+
 **[Environment](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/Environment.html)**는 현재 구동중인 Application 환경을 나타내는 Interface로 Profile과 Property를 다루는 Interface이다.
 Environment의 역할은 활성화할 Profile 확인 및 설정이다.
 

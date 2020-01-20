@@ -10,6 +10,10 @@ tags:
 comments: true 
 ---
 
+>백기선님의 스프링 프레임워크 핵심 기술 강의 내용을 정리한 내용입니다.
+---
+
+
 java.net.URL이라는 Class를 org.springframwork.core.io.[Resource](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/io/Resource.html) Class로 감싸서 실제 Low level에 있는 Resource에 접근하는 기능을 만든 것이다.
 
 추상화 한 이유는 다음과 같다.

@@ -10,6 +10,10 @@ tags:
 comments: true 
 ---
 
+>백기선님의 스프링 프레임워크 핵심 기술 강의 내용을 정리한 내용입니다.
+---
+
+
 Property는 Application에 등록되는 여러가지 Key-value 쌍으로 제공되는 Property에 접근 할 수 있는 기능이다.
 
 다양한 방법으로 값을 설정할 수 있으며 Environment의 역할은 Property 소스 설정 및 값 을 가져오는 것이다.

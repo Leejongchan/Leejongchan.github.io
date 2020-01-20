@@ -10,6 +10,10 @@ tags:
 comments: true 
 ---
 
+>백기선님의 스프링 프레임워크 핵심 기술 강의 내용을 정리한 내용입니다.
+---
+
+
 MessageSource는 국제화(i18n)을 제공하는 기능이다. ApplicationContext는 MessageSource를 상속받고 있기 때문에 ApplicationContext를 사용하면 MessageSource 기능을 사용 할 수 있다.
 
 

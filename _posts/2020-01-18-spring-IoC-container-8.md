@@ -10,6 +10,10 @@ tags:
 comments: true
 ---
 
+>백기선님의 스프링 프레임워크 핵심 기술 강의 내용을 정리한 내용입니다.
+---
+
+
 [ApplicationEventPublisher](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationEventPublisher.html)는 이벤트 프로그래밍에 필요한 인터페이스를 제공하며 옵저버 패턴의 구현체이다. ApplicationContext는 ApplicationEventPublisher를 상속한다.
 
 

@@ -10,6 +10,10 @@ tags:
 comments: true 
 ---
 
+>백기선님의 스프링 프레임워크 핵심 기술 강의 내용을 정리한 내용입니다.
+---
+
+
 Resource를 Loading해주는 Interface를 ApplicationContext가 상속받아 구현하고 있다.
 
 Resource는 Resource Class의 getResource(java.lang.String location) method를 이용하여 읽어올 수 있다.

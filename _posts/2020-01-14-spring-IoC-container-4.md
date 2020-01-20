@@ -10,6 +10,10 @@ tag:
 comments: true
 ---
 
+>백기선님의 스프링 프레임워크 핵심 기술 강의 내용을 정리한 내용입니다.
+---
+
+
 # @ComponentScan
 @ComponentScan이 있는 Class부터 해당 패키지 이하의 모든 클래스를 Scan한다. 다른 패키지의 Class는 Scan하지 않는다.
 ```java
