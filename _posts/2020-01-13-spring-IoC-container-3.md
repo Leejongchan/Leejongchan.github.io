@@ -15,69 +15,70 @@ comments: true
 
 
 # Autowired를 이용한 의존성 주입
-- Field Injection
-    ```java
-    @Service
-    public class BookService {
-      
+- Field Injection  
+
+  ```java
+  @Service
+  public class BookService {
+    
       @Autowired
       BookRepository bookRepository;
-      
-    }
-    ```
-    ```java
-    @Repository
-    public class bookRepositry {
-    
-    }
-    ```
+  }
+  ```
+  
+  ```java
+  @Repository
+  public class bookRepositry {
+  
+  }
+  ```
 
 - Construct Injection
-    ```java
-    @Service
-    public class BookService {
-      
+  ```java
+  @Service
+  public class BookService {
+    
       BookRepository bookRepository;
-      
+    
       @Autowired
       public BookService(BookRepository bookRepository) {
-        this.bookRepository = bookRepository;
+          this.bookRepository = bookRepository;
       }
-      
+    
       @Autowired
       public void setBookRepository(BookRepository bookRepository) {
-        this.bookRepository = bookRepository;
+         this.bookRepository = bookRepository;
       }
-    }
-    ```
-    ```java
-    @Repository
-    public class bookRepositry {
-    
-    }
-    ```
+  }
+  ```
+  ```java
+  @Repository
+  public class bookRepositry {
+  
+  }
+  ```
 
 - Setter Injection
-    ```java
-    @Service
-    public class BookService {
-      
-      BookRepository bookRepository;
-     
-      @Autowired(required = false)
-      // required의 default는 true이다. required = false option를 set한 경우 매칭되는 Bean이 없는 경우 에러가 아닌 의존성 주입을 하지 않는다.
-      public void setBookRepository(BookRepository bookRepository) {
+  ```java
+  @Service
+  public class BookService {
+    
+    BookRepository bookRepository;
+   
+    @Autowired(required = false)
+    // required의 default는 true이다. required = false option를 set한 경우 매칭되는 Bean이 없는 경우 에러가 아닌 의존성 주입을 하지 않는다.
+    public void setBookRepository(BookRepository bookRepository) {
         this.bookRepository = bookRepository;
-      }
-    
     }
-    ```
-    ```java
-    // @Repository
-    public class bookRepositry {
-    
-    }
-    ```
+  
+  }
+  ```
+  ```java
+  // @Repository
+  public class bookRepositry {
+  
+  }
+  ```
 
 # 여러 Class가 implements한 Interface를 의존성 주입할 경우
 @Primary를 이용하여 어떠한 Class가 의존성 주입될지 결정한다.
@@ -99,10 +100,11 @@ public class YourBookRepository {
 }
 ```
 ```java
-@Service class BookService {
+@Service 
+class BookService {
   
-  @Autowired
-  BookRepository bookRepository;
+    @Autowired
+    BookRepository bookRepository;
 }
 ```
 
@@ -131,9 +133,9 @@ public class BookService {
   @Autowired
   BookRepository bookRepository;
  
-    @PostConstuctor
+  @PostConstuctor
   public void printBookRepository() {
-    //
+      //
   }
 }
 ```

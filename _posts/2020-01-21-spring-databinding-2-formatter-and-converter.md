@@ -30,7 +30,7 @@ Converter는 S타입을 T타입으로 변환할 수 있는 일반적인 변환�
 
 ConverterRegistry를 직접 사용할 일은 없고 Spring Boot없이 Spring MVC를 사용 할 경우 다음과 같이 코드를 작성한다.
 
-```javascript
+```java
 @Configuration
 public class WebConfig implements WebMvcConfigurer {
   

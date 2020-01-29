@@ -119,8 +119,8 @@ li pre {
     background-color: $color_gray;
     border: 1px solid $color_mischka;
     @include rounded(4px);
-    margin: 0 2px;
-    padding: 0 5px;
+    margin: 0 0px;
+    padding: 0 0px;
 }
 li .highlight code,
 li .highlight pre {

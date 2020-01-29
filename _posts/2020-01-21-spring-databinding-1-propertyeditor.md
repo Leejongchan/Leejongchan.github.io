@@ -105,7 +105,7 @@ public class EventControllerTest {
   @Test
   public void getTest() throws Exception {
     mockMvc.perform(get("/event/1"))
-    				.andExpect(status().isOk())
+    		.andExpect(status().isOk())
             .andExpect(content().string("1"));
   }
 }

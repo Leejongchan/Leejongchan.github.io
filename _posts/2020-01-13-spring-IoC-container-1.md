@@ -39,9 +39,9 @@ Spring IoC 컨테이너가 관리하는 객체로 Scope는 다음과 같다.
 
 그 중 하나의 예로 @PostConstruct가 있다. Bean이 만들어졌을 때 추가적인 작업을 하고싶은 경우 다음과 같이 @PostConstruct를 이용 할 수 있다.
 ```java
-    // Class 내에 @PostConstruct 이용
-    @PostConstruct
-    public void postConstruct() {
+// Class 내에 @PostConstruct 이용
+@PostConstruct
+public void postConstruct() {
     //
 }
 ```
