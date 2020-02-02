@@ -2,12 +2,15 @@
 layout: post 
 title: "AOP 소개: 개념 소개"
 date: 2020-01-30
-excerpt: ""
+excerpt: "백기선 강의 - 스프링 프레임워크 핵심 기술"
 tags: 
 - Spring
 - 백기선 강의
 - 스프링 프레임워크 핵심 기술
 comments: true 
+---
+
+>백기선님의 스프링 프레임워크 핵심 기술 강의 내용을 정리한 내용입니다.
 ---
 
 # AOP 소개: 개념 소개

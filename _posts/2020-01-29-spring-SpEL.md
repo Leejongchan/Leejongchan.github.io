@@ -2,12 +2,15 @@
 layout: post 
 title: "SpEL (스프링 Expression Language)"
 date: 2020-01-29
-excerpt: ""
+excerpt: "백기선 강의 - 스프링 프레임워크 핵심 기술"
 tags: 
 - Spring
 - 백기선 강의
 - 스프링 프레임워크 핵심 기술
 comments: true 
+---
+
+>백기선님의 스프링 프레임워크 핵심 기술 강의 내용을 정리한 내용입니다.
 ---
 
 [스프링 EL](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions)은 스프링 3.0 부터 지원하며 객체 그래프를 조회하고 조작하는 기능을 제공한다. [Unified EL](https://docs.oracle.com/javaee/5/tutorial/doc/bnahq.html)과 비슷하지만 메소드 호출을 지원하며 문자열 탬플릿 기능도 지원한다.

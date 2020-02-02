@@ -2,7 +2,7 @@
 layout: post 
 title: "데이터 바인딩 추상화: PropertyEditor"
 date: 2020-01-21
-excerpt: ""
+excerpt: "백기선 강의 - 스프링 프레임워크 핵심 기술"
 tags: 
 - Spring
 - 백기선 강의

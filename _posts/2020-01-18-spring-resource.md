@@ -2,7 +2,7 @@
 layout: post 
 title: "Resource 추상화"
 date: 2020-01-18
-excerpt: ""
+excerpt: "백기선 강의 - 스프링 프레임워크 핵심 기술"
 tags: 
 - Spring
 - 백기선 강의
