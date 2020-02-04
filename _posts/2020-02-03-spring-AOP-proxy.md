@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "AOP 소개: 프록시 기반 AOP"
+title: "Spring AOP: 프록시 기반 AOP"
 date: 2020-02-03
 excerpt: "백기선 강의 - 스프링 프레임워크 핵심 기술"
 tags: 

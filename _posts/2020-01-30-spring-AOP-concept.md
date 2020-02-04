@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "AOP 소개: 개념 소개"
+title: "Spring AOP: 개념 소개"
 date: 2020-01-30
 excerpt: "백기선 강의 - 스프링 프레임워크 핵심 기술"
 tags: 
