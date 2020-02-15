@@ -151,8 +151,6 @@ public class EventService {
 2. 코드 일관성 유지에 노력이 필요함
 3. 높은 학습 곡선
 
-ㅇ
 
-**참고**
-
-1. [빌더 패턴(Builder Pattern)](
+**참고**  
+- [빌더 패턴(Builder Pattern)](https://asfirstalways.tistory.com/350)
