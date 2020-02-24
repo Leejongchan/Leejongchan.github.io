@@ -121,7 +121,7 @@ public class EventEditor extends PropertyEditorSupport {
   }
   
   @Override
-  public void setAsTest(String text) throws IllegalArgumentException {
+  public void setAsText(String text) throws IllegalArgumentException {
     setValue(new Event(Integer.parseInt(text)));
   }
 }
