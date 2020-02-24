@@ -183,10 +183,9 @@ public class AppRunner implements ApplicationRunner {
     events.setLimit(-1);
     event.setEmail("aaa2");
     
-    EventValidator eventValidator = new EventValidator();
     Errors errors = new BeanPropertyBindingResult(event, "event");
     
-    eventValidator.validate(event, errors);
+    validator.validate(event, errors);
     
     System.out.println(errors.hasErrors()); // true
     
