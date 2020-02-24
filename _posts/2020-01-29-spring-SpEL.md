@@ -90,9 +90,9 @@ public class Apprunner implements ApplicationRunner {
     System.out.println(isMyValue100); // true
     
     ExpressionParser parser = new SpelExpressionParser();
-    parser.parseExpression("2 + 100"); 
+    Expression expression = parser.parseExpression("2 + 100"); 
     // 이 자체가 Expression이기 때문에 {}안에 들어갈 내용만 넣는다.
-    expression.getValue(Integer.class); 
+    value = expression.getValue(Integer.class); 
     // 이 때 SpEL도 Type을 변경할 때 ConversionService를 사용한다.
     System.out.println(value); // 102
   }
@@ -130,14 +130,14 @@ ExpressionParser를 프로그래밍으로 활용할 수 있다.
 
 ```java
 @Component
-public class Apprunner implements ApplicationRunner {
+public class AppRunner implements ApplicationRunner {
  
   @Override
   public void run(ApplicationArguments args) throws Exception {
     ExpressionParser parser = new SpelExpressionParser();
-    parser.parseExpression("2 + 100"); 
+    Expression expression = parser.parseExpression("2 + 100"); 
     // 이 자체가 Expression이기 때문에 {}안에 들어갈 내용만 넣는다.
-    expression.getValue(Integer.class); 
+    Integer value = expression.getValue(Integer.class); 
     // 이 때 SpEL도 Type을 변경할 때 ConversionService를 사용한다.
     System.out.println(value); // 102
   }
