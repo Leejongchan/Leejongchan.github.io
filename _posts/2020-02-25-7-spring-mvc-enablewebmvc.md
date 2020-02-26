@@ -35,7 +35,7 @@ public class WebConfig {
 
 **WebMvcConfigurer**
 
-사용자가 원하는대로 확장하는 지점은 WebMvcConfigurer Interface를 통해 지원한다.
+사용자가 원하는대로 확장하는 지점은 WebMvcConfigurer Interface를 통해 지원한다. 스프링 MVC가 지원하는 인터페이스로 스프링 MVC를 커스터마이징할 때 주로 사용하는 인터페이스이다.
 
 예를 들어 @EnableWebMvc가 등록해주는 ViewResolver를 커스터마이징할 수 있다.
 
