@@ -44,5 +44,6 @@ public class WebConfig {
 
 
 
-위와 같이 Bean을 정의하는 방법은 Low Level 설정 방법이다. 조금 더 편하게 설정할 수 있도록 Spring MVC에서 제공하는 [방법](https://leejongchan.github.io/spring-mvc-servlet-outro/)이 있다.
+위와 같이 Bean을 정의하는 방법은 Low Level 설정 방법이다. 
+Spring MVC관련 Bean을 일일히 등록할 필요 없이 WebMvcConfigurer 인터페이스의 특정 메소드를 구현함으로써 더 편하게 설정할 수 있도록 Spring MVC에서 제공하는 [방법](https://leejongchan.github.io/7-spring-mvc-servlet-enablewebmvc/)이 있다.
 

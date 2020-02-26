@@ -15,7 +15,7 @@ comments: true
 
 **@EnableWebMvc**
 
-Annotation 기반 Spring MVC를 사용할 때 편리한 웹 MVC 기본 설정
+Annotation 기반 Spring MVC를 손쉽게 쓸 수 있게 해주는 Annotation이다.
 
 ```java
 @Configuration
@@ -35,7 +35,7 @@ public class WebConfig {
 
 **WebMvcConfigurer**
 
-사용자가 원하는대로 확장하는 지점은 WebMvcConfigurer Interface를 통해 지원한다. 스프링 MVC가 지원하는 인터페이스로 스프링 MVC를 커스터마이징할 때 주로 사용하는 인터페이스이다.
+사용자가 원하는대로 확장하는 지점은 WebMvcConfigurer Interface를 통해 지원한다. @EnableWebMvc와 맞물려 돌아가며 스프링 MVC가 지원하는 인터페이스로 스프링 MVC를 커스터마이징할 때 주로 사용하는 인터페이스이다.
 
 예를 들어 @EnableWebMvc가 등록해주는 ViewResolver를 커스터마이징할 수 있다.
 
