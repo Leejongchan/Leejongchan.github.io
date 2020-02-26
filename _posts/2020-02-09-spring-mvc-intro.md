@@ -23,13 +23,12 @@ comments: true
    * 평범한 자바 객체 POJO
 2. V (View)
    * 데이터를 보여주는 역할. 다양한 형태로 보여줄 수 있다. HTML, JSON, XML 등
-   * HTML. JSP, [thymeleaf](https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html) 등
+   * HTML, JSP, [thymeleaf](https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html) 등
 3. C (Controller)
    * 사용자 입력을 받아 모델 객체의 데이터를 변경하거나, 모델 객체를 뷰에 전달하는 역할
      * 입력값 검증
      * 입력 받은 데이터로 모델 객체 변경
      * 변경된 모델 객체를 뷰에 전달
-   *  스프링 @MVC
      
      
 
@@ -43,7 +42,7 @@ public class EventController {
   // events라는 GET 요청이 들어오는 경우
   // Spring 4.3부터 @GetMapping("events")으로도 GET요청을 처리할 수 있다.
   @RequestMapping(value = "/events", method = RequestMethod.GET)
-  pbulic String events(Model model) {
+  public String events(Model model) {
     // Model은 Java의 Map이라고 생각하면 된다.
     
     model.addAttribute("events", eventService.getEvent());
@@ -99,7 +98,7 @@ public class EventService {
 ```html
 <!-- thymeleaf -->
 <!DOCTYPE html>
-<html lang="en" xmlns:th="https://www.thymeleaf.org"> <!-- Timeleaf를 쓰려면 namespace를 정의해야 한다. -->
+<html lang="en" xmlns:th="https://www.thymeleaf.org"> <!-- Thymeleaf를 쓰려면 namespace를 정의해야 한다. -->
 <head>
   <meta charset="UTF-8">
   <title>Title</title>
