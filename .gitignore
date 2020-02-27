@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+.idea/
 
 leejongchan.github.io.iml
 _posts/post_template.md

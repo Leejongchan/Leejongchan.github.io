@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4fa5ec80-3e81-431f-8674-6e9f649cc851" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
       <change beforePath="$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-6-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-6-1.md" afterDir="false" />
->>>>>>> Stashed changes
-=======
->>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,15 +33,9 @@
           <entry key="iml" value="7" />
           <entry key="jpg" value="2" />
           <entry key="lock" value="1" />
-<<<<<<< HEAD
-<<<<<<< Updated upstream
           <entry key="md" value="30" />
-=======
           <entry key="md" value="45" />
->>>>>>> Stashed changes
-=======
           <entry key="md" value="30" />
->>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
           <entry key="png" value="1" />
           <entry key="yml" value="4" />
         </counts>
@@ -57,15 +45,9 @@
           <entry key="HTML" value="1" />
           <entry key="IDEA_MODULE" value="7" />
           <entry key="Image" value="3" />
-<<<<<<< HEAD
-<<<<<<< Updated upstream
           <entry key="Markdown" value="30" />
-=======
           <entry key="Markdown" value="45" />
->>>>>>> Stashed changes
-=======
           <entry key="Markdown" value="30" />
->>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="YAML" value="4" />
         </counts>
@@ -74,29 +56,17 @@
         <counts>
           <entry key="Gemfile" value="4" />
           <entry key="gitignore" value="147" />
-<<<<<<< HEAD
-<<<<<<< Updated upstream
           <entry key="md" value="112" />
-=======
           <entry key="md" value="149" />
->>>>>>> Stashed changes
-=======
           <entry key="md" value="112" />
->>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
           <entry key="yml" value="95" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
           <entry key="Markdown" value="112" />
-=======
           <entry key="Markdown" value="149" />
->>>>>>> Stashed changes
-=======
           <entry key="Markdown" value="112" />
->>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
           <entry key="PLAIN_TEXT" value="151" />
           <entry key="YAML" value="95" />
         </counts>
@@ -106,10 +76,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
         <entry file="file://$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-6.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -118,8 +84,6 @@
                 <folding>
                   <element signature="e#220#221#0" expanded="true" />
                   <element signature="e#261#262#0" expanded="true" />
-<<<<<<< HEAD
-=======
         <entry file="file://$PROJECT_DIR$/_posts/2020-01-18-spring-IoC-container-9.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -765,7 +729,6 @@
         </state>
       </provider>
     </entry>
->>>>>>> f2a59bca97d0840a7dac16e790fc360e2c5e0a85
   </component>
   <component name="masterDetails">
     <states>
